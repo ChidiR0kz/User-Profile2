@@ -1,0 +1,102 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: lightgray;
+    padding: 20px;
+    background-color: cornsilk;
+}
+
+ img{
+    border-radius: 200px;
+   height: 180px;
+   overflow: hidden;
+   width: 180px;
+   display: inline-block;
+}
+
+.heading-tertiary{
+    fill-opacity: 23px;
+    flex: 1 0 30%;
+    text-align: right;
+    margin-right: 15px;
+}
+
+.lower{
+    display: flex;
+    width: 100%;
+}
+
+.subtitle{
+    padding: 30px 10px 10px;
+    border-bottom: 1px solid;
+}
+
+.left{
+    width: 30%;
+}
+
+h4{
+    font-weight: 400;
+    margin: 5px;
+    padding: 5px;
+}
+
+.h2-link{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+h2{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1;
+}
+
+.right{
+    flex-grow: 1;
+}
+
+.values{
+    padding: 0px 5px;
+    margin: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.profile-container{
+    background-color: azure;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.upper{
+    display: flex;
+}
+
+.imgbox{
+    border-radius: 1000px;
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./Sky\ Full\ of\ Stars.jpg);
+    margin-right: 75px;
+}
+
+.info-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+h1{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1;
+}
+
+
+/*************** AND BRINGS US TO THE END*********/

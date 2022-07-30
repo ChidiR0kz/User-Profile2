@@ -5,7 +5,7 @@ body{
     line-height: 1.5;
     color: lightgray;
     padding: 20px;
-    background-color: cornsilk;
+    background-color: lightgray;
 }
 
  img{
@@ -61,14 +61,14 @@ h2{
 .values{
     padding: 0px 5px;
     margin: 3px;
-    border: 1px solid rgba(0, 0, 0, 0.1);
+    border: 1px solid black;
     border-radius: 5px;
 }
 
 .profile-container{
     background-color: azure;
     padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px black;
 }
 
 .upper{
